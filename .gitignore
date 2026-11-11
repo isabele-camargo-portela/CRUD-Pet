@@ -1,0 +1,10 @@
+/build/
+/dist/
+/nbproject/private/
+.nb-gradle/
+nbproject/build-impl.xml
+nbproject/genfiles.xml
+nbproject/project.properties
+*.class
+*.log
+.DS_Store
