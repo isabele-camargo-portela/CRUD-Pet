@@ -8,3 +8,5 @@ nbproject/project.properties
 *.class
 *.log
 .DS_Store
+/Proj_CRUDpet/build/
+conexao.properties
