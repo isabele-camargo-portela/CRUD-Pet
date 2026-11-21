@@ -10,3 +10,4 @@ nbproject/project.properties
 .DS_Store
 /Proj_CRUDpet/build/
 conexao.properties
+/Proj_CRUDpet/nbproject/private/
