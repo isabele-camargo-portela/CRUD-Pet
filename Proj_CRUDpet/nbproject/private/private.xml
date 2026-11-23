@@ -5,6 +5,11 @@
         <group>
             <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/factory/ConnectionFactory.java</file>
             <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/factory/TestaConexao.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/gui/InterfaceGUI.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/modelo/Raca.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/modelo/Animal.java</file>
+            <file>file:/C:/Users/isabe/OneDrive/Documentos/NetBeansProjects/Proj_CrudPet/Proj_CRUDpet/src/dao/ClienteDAO.java</file>
         </group>
     </open-files>
 </project-private>

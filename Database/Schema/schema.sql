@@ -9,14 +9,14 @@ use crud_pet;
 create table cliente (
     id_cliente int auto_increment primary key,
     nome varchar(100) not null,
-    cpf varchar(14) not null unique,
+    cpf varchar(11) not null unique,
     data_nascimento date,
     telefone varchar(20),
     endereco varchar(150),
     bairro varchar(80),
     cidade varchar(80),
     estado char(2),
-    cep varchar(10),
+    cep varchar(8),
     status boolean default true
 );
 
